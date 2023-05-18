@@ -16,7 +16,8 @@ public class BootSpringBootApplication {
 }
 ```
 
-- 네이버: <https://naver.com "검색포털">
+- [네이버](https://naver.com, '검색포털')
+- 네이버: <https://naver.com>
 
 ![배경이미지](/img/img.jpg)
 
