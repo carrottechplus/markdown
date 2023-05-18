@@ -19,3 +19,5 @@ public class BootSpringBootApplication {
 - 네이버: <https://naver.com, "검색포털">
 
 ![배경이미지](/img/img.jpg)
+
+<img scr="img/img.jpg" alt="배경사진" width="300px">
