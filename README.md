@@ -20,4 +20,4 @@ public class BootSpringBootApplication {
 
 ![배경이미지](/img/img.jpg)
 
-<img scr='img/img.jpg' alt='배경사진' width='300px' />
+<img width='300px' src='img/img.jpg' alt='배경사진' />
